@@ -6,6 +6,12 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.concurrent.Semaphore;
 
+/**
+ * 
+ * @author Sara Ortiz Drada
+ * @author Daniela Llano
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
